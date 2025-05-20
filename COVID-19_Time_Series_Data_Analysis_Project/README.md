@@ -76,6 +76,5 @@ Analyze global COVID-19 case data to track infection trends, identify regional i
 
 ## 👤 Author
 **[Shubham Raut]**  
-_Data Analyst | Data Science Enthusiast_
-linkedIn: [http://linkedin.com/in/shubham-raut-986bb1227]
+_Data Analyst | Data Science Enthusiast_ | linkedIn: [http://linkedin.com/in/shubham-raut-986bb1227]
 ---
